@@ -8,5 +8,5 @@ Installing NodeSchool
   2. Run `sudo npm install learnyounode -g`
   3. Run `learnyounode`
 
-### Contributors
+### Warning
 All this files are only for educational purposes
